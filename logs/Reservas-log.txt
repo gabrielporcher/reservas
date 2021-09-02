@@ -1,0 +1,7 @@
+2021/09/02-00:04 - IP : 172.18.0.1 Acessou: /cadastro
+lugar="12"
+2021/09/02-00:04 - IP : 172.18.0.1 Acessou: /favicon.ico
+2021/09/02-00:04 - IP : 172.18.0.1 Acessou: /compra
+lugar="12"
+nome="Teste"
+2021/09/02-00:04 - IP : 172.18.0.1 Acessou: /favicon.ico
